@@ -1,0 +1,48 @@
+header{
+    border: 1px solid black;
+    text-align: center;
+    height: 150px;
+    background-color: rgb(116, 89, 56);
+}
+header h1{
+    padding-top: 30px;
+}
+nav{
+    text-align: center;
+    border: 1px solid black;
+    margin-top: 5px;
+   background-color: rgb(247, 243, 238);
+}
+nav ul{
+    text-align: center;
+}
+nav li{
+    list-style: none;
+    display: inline-block;
+    padding: 0 2%;
+   
+}
+nav li a{
+    text-decoration-line: none;
+}
+main{
+    background-color: antiquewhite;
+    text-align: justify;
+    text-align: center;
+}
+main h1{
+    text-align: left;
+}
+section{
+    height: 500px;
+}
+section h1{
+    text-align: left;
+    padding-top: 30px;
+}
+footer{
+    background-color: rgb(219, 199, 155);
+    height: 50px;
+    padding-top: 5px;
+    margin-top: 5px;
+}
